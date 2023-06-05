@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<manifest identifier="XiAvAxOODBlR1xTfm-9eXXtLhGL8NvqIdBdYRFtG" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Algonquin Power &amp; Utilities</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Algonquin Power &amp; Utilities</title>
+        <adlcp:datafromlms>eyJjcHYiOiJkQmRZUkZ0RyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+      <file href="scormcontent/lib/main.bundle.js"/>
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/main.bundle.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Poppins-BoldItalic.woff" />
+<file href="scormcontent/lib/fonts/Poppins-Bold.woff" />
+<file href="scormcontent/lib/fonts/Poppins-SemiBoldItalic.woff" />
+<file href="scormcontent/lib/fonts/Poppins-SemiBold.woff" />
+<file href="scormcontent/lib/fonts/Poppins-Italic.woff" />
+<file href="scormcontent/lib/fonts/Poppins-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+<file href="scormcontent/lib/fonts/Inter-Black.woff" />
+<file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+<file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Light.woff" />
+<file href="scormcontent/assets/r-1wn9G6ZHWbH_JO_small.png" />
+<file href="scormcontent/assets/LfdeTy5x8amgYE7t_Zwu8q3ifaPmGqPVJ.png" />
+<file href="scormcontent/assets/iytAtYqxSF1hE16N_transcoded-sB_vOZa2zEqLcgTu-History%20of%20Algonquin.mp3" />
+<file href="scormcontent/assets/WODtFYsBiiGW7AnZ_transcoded-eGwhvtFV--6N5Yw8-From%20Humble%20Beginnings.mp3" />
+<file href="scormcontent/assets/XO1x4QHWd3fRNHdo_7SOe6NXG7UR9geyS.jpg" />
+<file href="scormcontent/assets/wKbud8VtShU86rVt_transcoded-1k3ut-b4ebQ91_1G-To%20Over%201%20Million%20Connections%20Worldwide.mp3" />
+<file href="scormcontent/assets/WbFTLmoQ6V37wDfq_MKLOiVZ-6ObnSq_e.jpg" />
+<file href="scormcontent/assets/1XUKrDpsLDqgMuqy_transcoded-z-GGc_F1Vldt39Oy-Where%20We%20Work.mp3" />
+<file href="scormcontent/assets/mjoNSp1wtfIAl6p7_GCMCXFzvoloCbPSr.jpg" />
+<file href="scormcontent/assets/nSrX0Yr_uwo40vuJ_o8zkaBiBcSmI8NWK.jpg" />
+<file href="scormcontent/assets/RSrkZlsir-EgPi2S_E9tNo33RMzlPZqtw.jpg" />
+<file href="scormcontent/assets/lO5EbBl7vQE-KjpK_7PuUBluMzVx6ud0N.jpg" />
+<file href="scormcontent/assets/4EaG2x5GcYjrYtI5_mPi_Girm_s_yjpBT.png" />
+<file href="scormcontent/assets/Q2XU1sA8_vn0RGJp_H7J7QNnq-izqFsNp.jpg" />
+<file href="scormcontent/assets/UlcoMWl7KB1WIZ-i_-p59SHsr0yyKoN3k.jpg" />
+<file href="scormcontent/assets/t9WNlNVVXeJWvRmt_Aviez_YtkbtcRPxG.jpg" />
+<file href="scormcontent/assets/ZfD-qh7LLuBOiu4R_Rpx_wuK_IgwaPTwr.jpg" />
+<file href="scormcontent/assets/lxZh9qUrdxNqq00J_IIUNXdC46_nsB3rB.jpg" />
+<file href="scormcontent/assets/le8RAtM_ITh4CxZ-_transcoded-KbNYq3qSYb_iu_cE-Sustaining%20Energy%20and%20Water%20for%20Life.mp3" />
+<file href="scormcontent/assets/OoVRnUCePVdXxrZG_transcoded-enRia5fZqotf2xFx-Net-Zero.mp3" />
+<file href="scormcontent/assets/zjU2YVejDtQORfzy_gRDsV5fSRm-Ux6dm.jpg" />
+<file href="scormcontent/assets/w-aLezQzYKKOViwc_fgB5luOFn29oV-Xf.jpg" />
+<file href="scormcontent/assets/Pu6egMEaCer5fJJr_Q7BIZ8-MJm9YYZIG.jpg" />
+<file href="scormcontent/assets/Kfn81gVL2_rpa9i9_V2jyuFKWCY2YqZmQ.jpg" />
+<file href="scormcontent/assets/GuLjQLwAa0gHPT_I_transcoded-CdsK6l3HRQNaT7jH-Your%20Role%20in%20Algonquins%20Success.mp3" />
+<file href="scormcontent/assets/zN-f1Hp20uYmvWh3_transcoded-ymh73_nHsOYYMehb-Safety%20and%20Reliability.mp3" />
+<file href="scormcontent/assets/0ja23j1QnZW3VbCw_lXnOHCkJT9ey71h7.jpg" />
+<file href="scormcontent/assets/59GXbQ1oZl25ZWqH_transcoded--i6QrTn7iZddJYbe-Endangered%20Species.mp3" />
+<file href="scormcontent/assets/tVsiIvxxyBqnxdEI_jW3oRt_5Q1R6RcIN.jpg" />
+<file href="scormcontent/assets/XxigOtCSeQqULyTt_transcoded-FBPBpeg9pMcrCM4Q-Community%20Safety.mp3" />
+<file href="scormcontent/assets/onGsCq8yKhF-HoHz_nhUxgii8It410Hu1.jpg" />
+<file href="scormcontent/assets/83-KREAd1Jv9bNgA_transcoded-mcMDVZvJJenoRzIJ-Fostering%20Relationships.mp3" />
+<file href="scormcontent/assets/DrgKFmPiAs5TyLc__v_SMUE82wnXB_WcT.jpg" />
+<file href="scormcontent/assets/RnA-lr137zOfN-K0_transcoded-YXYd1ERthSnTQwZN-Safety%20and%20Compliance.mp3" />
+<file href="scormcontent/assets/bIex_PcKksOGeURY_biQonITXsFTYRQQd.jpg" />
+<file href="scormcontent/assets/hEmh4f2E8X8ekLLw_transcoded-jbYnQEMq2vJacH-i-Investors%20and%20Stakeholders.mp3" />
+<file href="scormcontent/assets/XE_mS83GFlIaTC9j_CZV3xaF5PLmgl74e.jpg" />
+<file href="scormcontent/assets/cLLaKgyIW0Tr4kMA_transcoded-GCaRaqTmqmw8a226-Thank%20You%21.mp3" />
+<file href="scormcontent/assets/93dynFrxaZ8gOm4n_s8aINv4wdoukFgV_.jpg" />
+<file href="scormcontent/assets/X1DENuPSrgq_T3K3_2mNFY0Hp-NgbjLgK.jpg" />
+<file href="scormcontent/assets/3PTRUkZZNcN4MuAs_cover-image-0.jpg" />
+<file href="scormcontent/assets/MSW79ZnOQotj2pss_example-header-image.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
